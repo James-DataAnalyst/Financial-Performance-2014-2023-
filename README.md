@@ -72,3 +72,34 @@ Analysis 3                        |  Analysis 4
 - Total Equity: $2.7M, growing at a 4.2% rate year-over-year.
 - EBITDA: $543.7K, reflecting earnings before interest, tax, depreciation, and amortization.
 - Employee Count: 197K, with 3.6% year-over-year growth, indicating business expansion.
+
+#### Net Profit Margin Trend
+- Monthly trends show a peak in August (173K) and a dip in July (116K).
+- Consistent profitability indicates steady financial management.
+
+#### Debt and Equity Trends
+- Fluctuations in debt levels over time suggest the need for improved financial planning.
+- The highest debt-equity ratio was observed in December, requiring closer monitoring.
+
+Financial Overview                | Liquidity & Market Insight
+:--------------------------------:|:-------------------------:
+![](FO1.PNG)                |  ![](FO2.PNG)
+Business Health Metrics           |                    
+![](FO3.PNG)          
+
+## Dashboard Features
+The interactive Excel dashboards were designed with the following features:
+- Year-wise analysis with filter options.
+- Dynamic charts for revenue, net income, and profitability trends.
+- Financial KPIs displayed clearly for quick decision-making.
+- Gauge charts for liquidity ratios, ensuring easy interpretation.
+- Comprehensive financial summary tables, allowing in-depth data exploration.
+
+## Key Takeaways and Recommendations
+- Revenue Growth: The company is experiencing steady revenue growth, but profitability optimization is needed to increase net income.
+- Liquidity Management: The current ratio and quick ratio indicate financial stability, but bills payable should be managed more efficiently.
+- Debt Control: The organization is highly leveraged, and strategies should be implemented to reduce financial risk.
+- Investment Opportunities: Strong earnings per share (EPS) and dividend yield suggest that attracting more investors can fuel expansion.
+- Strategic Decision-Making: The company should focus on improving ROA and ROE by utilizing assets and equity more effectively.
+
+By leveraging Excel’s advanced analytics and visualization capabilities, this project provides a powerful financial analysis tool that empowers businesses to make data-driven decisions and enhance financial stability.
